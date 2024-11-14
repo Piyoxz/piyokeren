@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1731603528743",
+        "userId": "1731518286570",
+        "fileName": "test",
+        "personalInfo": {
+            "address": "",
+            "email": "",
+            "linkedin": "",
+            "name": "",
+            "phone": "",
+            "portfolio": ""
+        },
+        "objective": "",
+        "educationHistory": [],
+        "workExperience": [],
+        "certifications": [],
+        "awards": [],
+        "skills": {
+            "hardSkills": "",
+            "softSkills": "",
+            "softwareSkills": ""
+        },
+        "createdAt": "2024-11-14T23:58:48.755268",
+        "updatedAt": "2024-11-15T00:07:09.981301"
+    }
+]

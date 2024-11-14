@@ -1,0 +1,415 @@
+{
+    "job_positions": [
+      {
+        "position": "IT Support",
+        "phrases": [
+          "Terampil dalam memberikan dukungan teknis dengan fokus pada pemecahan masalah perangkat keras dan perangkat lunak, memastikan pengguna dapat bekerja tanpa gangguan.",
+          "Berpengalaman dalam pengelolaan jaringan, termasuk troubleshooting LAN/WAN, konfigurasi router, dan pemeliharaan perangkat jaringan agar tetap optimal.",
+          "Mampu bekerja dengan berbagai sistem operasi seperti Windows, MacOS, dan Linux serta memastikan keamanan jaringan dan data pengguna melalui penanganan masalah keamanan.",
+          "Berpengalaman dalam memberikan pelatihan teknis kepada karyawan, membantu mereka memahami teknologi yang mereka gunakan sehari-hari dengan lebih baik dan memaksimalkan produktivitas.",
+          "Terbiasa dengan penggunaan perangkat lunak manajemen tiket (ticketing system) untuk melacak dan menyelesaikan masalah dengan cepat serta mengelola prioritas tiket sesuai dengan kebutuhan bisnis."
+        ]
+      },
+      {
+        "position": "Software Engineer",
+        "phrases": [
+          "Menguasai berbagai bahasa pemrograman seperti Java, Python, dan C++, dengan kemampuan untuk memilih bahasa yang paling efisien sesuai dengan kebutuhan proyek.",
+          "Berpengalaman dalam mengembangkan dan menguji perangkat lunak berbasis web dan aplikasi mobile dengan fokus pada efisiensi dan skalabilitas.",
+          "Mampu merancang arsitektur perangkat lunak yang fleksibel dan mudah diperbarui untuk menyesuaikan dengan pertumbuhan perusahaan.",
+          "Memahami praktik terbaik dalam pengembangan perangkat lunak seperti code review, unit testing, dan version control untuk memastikan kualitas dan keamanan kode.",
+          "Menguasai metode pengembangan Agile dan Scrum, mampu bekerja dalam tim cross-functional untuk memastikan proyek selesai sesuai waktu dan standar kualitas."
+        ]
+      },
+      {
+        "position": "Digital Marketing Specialist",
+        "phrases": [
+          "Ahli dalam merancang strategi pemasaran digital yang efektif untuk meningkatkan visibilitas merek di berbagai platform seperti Google, Facebook, dan Instagram.",
+          "Berpengalaman dalam SEO (Search Engine Optimization) untuk memastikan website dapat ditemukan pada halaman pertama mesin pencari, serta memahami cara memanfaatkan SEM (Search Engine Marketing) untuk meningkatkan jangkauan.",
+          "Mampu mengelola kampanye iklan berbayar (PPC) dengan tujuan spesifik seperti peningkatan konversi, brand awareness, dan engagement.",
+          "Terampil dalam menganalisis data pemasaran digital menggunakan Google Analytics dan alat analisis lainnya untuk mengukur performa kampanye secara rinci dan mengambil keputusan berbasis data.",
+          "Pengalaman dalam manajemen konten yang kreatif dan relevan untuk berbagai kanal digital, termasuk penulisan konten SEO-friendly dan penggunaan social media marketing."
+        ]
+      },
+      {
+        "position": "Data Analyst",
+        "phrases": [
+          "Mampu mengumpulkan, menganalisis, dan menginterpretasikan data dalam jumlah besar untuk mendukung keputusan strategis perusahaan dengan data yang solid.",
+          "Berpengalaman dalam menggunakan alat analisis data seperti SQL, Tableau, dan Excel untuk menggali wawasan yang relevan dan mempresentasikannya dalam bentuk yang mudah dimengerti.",
+          "Memiliki kemampuan untuk membuat model prediktif yang dapat membantu perusahaan memprediksi tren bisnis dan memahami kebutuhan pelanggan dengan lebih baik.",
+          "Mampu bekerja sama dengan tim manajemen untuk merancang strategi berbasis data yang dapat meningkatkan efisiensi dan profitabilitas perusahaan.",
+          "Berpengalaman dalam data cleaning dan data wrangling untuk memastikan akurasi data sebelum dianalisis, memberikan hasil analisis yang andal."
+        ]
+      },
+      {
+        "position": "Content Writer",
+        "phrases": [
+          "Mahir dalam menulis konten yang engaging dan informatif untuk berbagai platform digital, termasuk blog, media sosial, dan website perusahaan.",
+          "Berpengalaman dalam melakukan riset mendalam untuk memastikan keakuratan informasi dan menyesuaikan gaya penulisan dengan brand voice perusahaan.",
+          "Menguasai teknik SEO, termasuk riset kata kunci dan penempatan kata kunci yang strategis untuk meningkatkan visibilitas konten di mesin pencari.",
+          "Mampu menghasilkan konten yang tidak hanya menarik perhatian tetapi juga mampu mempertahankan engagement audiens dan mendorong mereka untuk berinteraksi.",
+          "Berpengalaman dalam mengelola editorial kalender untuk memastikan konten diterbitkan tepat waktu dan sesuai dengan strategi pemasaran konten perusahaan."
+        ]
+      },
+      {
+        "position": "Copywriter",
+        "phrases": [
+          "Menguasai teknik menulis copy persuasif yang mampu menarik perhatian audiens dan mendorong mereka untuk mengambil tindakan.",
+          "Berpengalaman dalam menciptakan tagline, headline, dan deskripsi produk yang catchy dan mengena bagi audiens target.",
+          "Mampu menyesuaikan gaya bahasa dan tone penulisan sesuai dengan karakteristik brand, membuat pesan yang konsisten dan kredibel.",
+          "Berpengalaman dalam menulis untuk berbagai format iklan, baik itu digital seperti Google Ads dan Facebook Ads maupun iklan cetak.",
+          "Mampu melakukan split-testing pada copy untuk menemukan pesan yang paling efektif dalam meningkatkan konversi."
+        ]
+      },
+      {
+        "position": "Project Manager",
+        "phrases": [
+          "Berpengalaman dalam mengelola proyek mulai dari perencanaan hingga eksekusi dan memastikan proyek berjalan sesuai dengan anggaran, waktu, dan kualitas yang ditetapkan.",
+          "Mampu merancang jadwal proyek yang realistis dan memastikan semua anggota tim memahami peran serta tanggung jawab masing-masing.",
+          "Menguasai metodologi manajemen proyek seperti Agile, Scrum, dan Kanban, serta mampu mengadaptasi metode yang sesuai dengan kebutuhan proyek.",
+          "Berkompeten dalam mengidentifikasi risiko proyek lebih awal dan merancang langkah-langkah mitigasi untuk mengurangi dampak negatif.",
+          "Mampu berkoordinasi dengan pemangku kepentingan (stakeholders) untuk memastikan proyek sesuai dengan ekspektasi dan tujuan bisnis perusahaan."
+        ]
+      },
+      {
+        "position": "Graphic Designer",
+        "phrases": [
+          "Mahir dalam mendesain visual yang kreatif dan menarik dengan menggunakan alat seperti Adobe Photoshop, Illustrator, dan CorelDRAW.",
+          "Berpengalaman dalam menciptakan berbagai jenis desain mulai dari logo, poster, infografik, hingga materi pemasaran lainnya yang mendukung brand perusahaan.",
+          "Menguasai prinsip-prinsip desain grafis seperti tata letak, komposisi warna, dan tipografi untuk menciptakan hasil yang estetis dan profesional.",
+          "Terbiasa bekerja dengan tim pemasaran dan content untuk memastikan visual yang dihasilkan selaras dengan strategi branding.",
+          "Mampu bekerja dalam lingkungan yang dinamis dengan tenggat waktu yang ketat, tetap memastikan kualitas desain yang optimal."
+        ]
+      },
+      {
+        "position": "Customer Service Representative",
+        "phrases": [
+          "Berpengalaman dalam memberikan layanan pelanggan yang cepat, efisien, dan ramah untuk menjaga kepuasan pelanggan pada tingkat yang tinggi.",
+          "Terampil dalam menangani berbagai jenis keluhan pelanggan dengan pendekatan yang profesional dan empati tinggi.",
+          "Mampu berkomunikasi dengan baik, baik secara verbal maupun tertulis, untuk memastikan pelanggan mendapatkan informasi yang mereka butuhkan.",
+          "Berpengalaman dalam menggunakan perangkat lunak CRM untuk melacak interaksi pelanggan dan memastikan pelayanan yang konsisten.",
+          "Terbiasa bekerja di lingkungan kerja yang sibuk dan mampu mengelola prioritas untuk memberikan layanan pelanggan yang optimal."
+        ]
+      },
+      {
+        "position": "Data Scientist",
+        "phrases": [
+          "Berpengalaman dalam pemodelan data yang kompleks untuk menghasilkan insights bisnis yang mendalam.",
+          "Terampil menggunakan Python, R, dan SQL untuk analisis data skala besar dan pembelajaran mesin.",
+          "Ahli dalam teknik visualisasi data dengan Tableau dan Power BI, menyajikan data dengan jelas untuk mendukung keputusan strategis.",
+          "Berpengalaman mengembangkan model prediktif yang dapat membantu mengantisipasi tren pasar dan perilaku konsumen.",
+          "Mampu berkolaborasi dengan tim lintas fungsional untuk mengintegrasikan hasil analisis dalam proses bisnis perusahaan."
+        ]
+      },
+      {
+        "position": "Product Manager",
+        "phrases": [
+          "Berpengalaman dalam mengembangkan roadmap produk yang sesuai dengan visi perusahaan dan kebutuhan pelanggan.",
+          "Mampu melakukan riset pasar dan analisis kompetitif untuk menciptakan produk yang relevan dan unggul.",
+          "Terampil dalam manajemen siklus hidup produk, mulai dari konsep, pengembangan, hingga peluncuran.",
+          "Ahli dalam kolaborasi lintas tim, bekerja dengan tim teknik, desain, dan pemasaran untuk mengoptimalkan proses produk.",
+          "Berfokus pada penggunaan data untuk pengambilan keputusan yang tepat terkait fitur produk dan pengembangan baru."
+        ]
+      },
+      {
+        "position": "Content Strategist",
+        "phrases": [
+          "Ahli dalam merancang strategi konten yang sesuai dengan tujuan pemasaran dan nilai brand.",
+          "Berpengalaman mengelola kalender editorial yang terstruktur untuk memastikan konten diterbitkan tepat waktu.",
+          "Menguasai analisis performa konten melalui alat seperti Google Analytics dan mengoptimalkan berdasarkan data.",
+          "Mampu menciptakan storytelling yang menarik untuk meningkatkan keterlibatan audiens di berbagai platform.",
+          "Terampil dalam bekerja sama dengan tim pemasaran untuk memastikan semua konten sesuai dengan strategi brand."
+        ]
+      },
+      {
+        "position": "Sales Executive",
+        "phrases": [
+          "Ahli dalam mengidentifikasi dan mengembangkan peluang bisnis baru melalui riset pasar dan networking.",
+          "Berpengalaman dalam bernegosiasi dengan klien untuk mencapai kesepakatan yang menguntungkan kedua belah pihak.",
+          "Mampu membangun hubungan yang kuat dengan pelanggan untuk memastikan kepuasan dan retensi pelanggan.",
+          "Berfokus pada pencapaian target penjualan dengan strategi yang efektif dan perencanaan yang matang.",
+          "Terampil dalam penggunaan CRM untuk melacak interaksi pelanggan dan mengidentifikasi peluang upselling."
+        ]
+      },
+      {
+        "position": "Accountant",
+        "phrases": [
+          "Berpengalaman dalam pembukuan, rekonsiliasi, dan penyusunan laporan keuangan yang akurat.",
+          "Mahir menggunakan perangkat lunak akuntansi seperti SAP, QuickBooks, dan Excel untuk mencatat transaksi keuangan.",
+          "Mampu melakukan analisis keuangan untuk memberikan saran yang relevan dan mendukung keputusan manajemen.",
+          "Ahli dalam memastikan kepatuhan dengan peraturan dan standar akuntansi internasional.",
+          "Terampil dalam mengelola audit internal dan eksternal untuk memastikan transparansi dan keakuratan laporan keuangan."
+        ]
+      },
+      {
+        "position": "Human Resources Specialist",
+        "phrases": [
+          "Ahli dalam perekrutan dan seleksi, memastikan kandidat yang direkrut sesuai dengan kebutuhan dan budaya perusahaan.",
+          "Berpengalaman dalam pengembangan dan pelaksanaan program pelatihan karyawan untuk meningkatkan keterampilan dan produktivitas.",
+          "Mampu menangani administrasi sumber daya manusia, termasuk manajemen gaji, pengembangan kebijakan, dan penilaian kinerja.",
+          "Berfokus pada peningkatan retensi karyawan melalui pendekatan yang humanis dan berorientasi pada kesejahteraan.",
+          "Terampil dalam menangani konflik dan memberikan mediasi untuk menciptakan lingkungan kerja yang harmonis."
+        ]
+      },
+      {
+        "position": "Social Media Manager",
+        "phrases": [
+          "Berpengalaman dalam mengelola akun media sosial perusahaan untuk meningkatkan awareness dan engagement.",
+          "Ahli dalam merancang konten kreatif dan strategis yang dapat menarik audiens dan mendukung branding perusahaan.",
+          "Mampu menganalisis metrik sosial menggunakan alat seperti Hootsuite dan Sprout Social untuk mengoptimalkan strategi.",
+          "Menguasai teknik copywriting dan storytelling untuk membangun hubungan emosional dengan audiens.",
+          "Berfokus pada interaksi dengan pengguna melalui balasan responsif dan membangun komunitas yang aktif."
+        ]
+      },
+      {
+        "position": "Legal Advisor",
+        "phrases": [
+          "Ahli dalam memberikan nasihat hukum terkait regulasi industri dan kepatuhan perusahaan.",
+          "Berpengalaman dalam meninjau dan menyiapkan dokumen hukum seperti perjanjian kontrak, MoU, dan NDA.",
+          "Mampu mewakili perusahaan dalam perselisihan hukum dengan pendekatan yang profesional dan strategis.",
+          "Menguasai undang-undang yang berlaku untuk memastikan perusahaan beroperasi sesuai dengan regulasi.",
+          "Terampil dalam memberikan pelatihan hukum internal untuk meningkatkan kesadaran hukum di seluruh tim."
+        ]
+      },
+      {
+        "position": "Supply Chain Manager",
+        "phrases": [
+          "Berpengalaman dalam merancang strategi logistik dan rantai pasok yang efisien untuk memaksimalkan keuntungan.",
+          "Mampu mengelola inventaris, pengadaan, dan distribusi untuk memastikan rantai pasok yang lancar.",
+          "Ahli dalam bekerja dengan vendor dan mitra logistik untuk menjaga ketepatan waktu pengiriman.",
+          "Menguasai analisis biaya untuk mengidentifikasi area penghematan dan mengoptimalkan proses supply chain.",
+          "Berfokus pada pengelolaan risiko dalam rantai pasok untuk memastikan stabilitas operasional."
+        ]
+      },
+      {
+        "position": "Financial Analyst",
+        "phrases": [
+          "Berpengalaman dalam analisis data keuangan untuk mendukung keputusan strategis perusahaan.",
+          "Ahli dalam membuat model keuangan untuk meramalkan kinerja keuangan perusahaan.",
+          "Mampu menganalisis laporan keuangan dan memberikan wawasan yang dapat meningkatkan efisiensi perusahaan.",
+          "Terampil dalam penggunaan perangkat lunak analisis seperti Excel, Bloomberg, dan Power BI.",
+          "Mampu bekerja dengan tim manajemen untuk mengembangkan strategi bisnis berdasarkan data yang valid."
+        ]
+      },
+      {
+        "position": "Business Development Manager",
+        "phrases": [
+          "Berpengalaman dalam mengidentifikasi dan mengevaluasi peluang bisnis baru untuk mendorong pertumbuhan perusahaan.",
+          "Ahli dalam membangun hubungan dengan klien baru dan mempertahankan hubungan baik dengan pelanggan lama.",
+          "Mampu bekerja sama dengan tim penjualan dan pemasaran untuk mengembangkan strategi ekspansi bisnis.",
+          "Terampil dalam melakukan analisis SWOT dan mengembangkan rencana jangka panjang yang efektif.",
+          "Fokus pada pencapaian target bisnis dengan pendekatan strategis yang fleksibel dan adaptif."
+        ]
+      },
+      {
+        "position": "Quality Assurance Specialist",
+        "phrases": [
+          "Ahli dalam pengujian produk dan proses untuk memastikan kualitas yang tinggi dan konsisten.",
+          "Berpengalaman dalam merancang dan melaksanakan rencana pengujian untuk produk perangkat lunak maupun hardware.",
+          "Terampil dalam menggunakan alat otomatisasi pengujian seperti Selenium dan Appium.",
+          "Mampu berkolaborasi dengan tim pengembang untuk mengidentifikasi dan memperbaiki bug sebelum rilis produk.",
+          "Berfokus pada peningkatan proses QA untuk efisiensi pengujian dan kualitas produk yang optimal."
+        ]
+      },
+      {
+        "position": "Operations Manager",
+        "phrases": [
+          "Berpengalaman dalam mengelola operasi sehari-hari perusahaan untuk memastikan efisiensi dan produktivitas.",
+          "Ahli dalam merancang prosedur operasional dan SOP untuk meminimalisir pemborosan dan meningkatkan kualitas.",
+          "Mampu berkolaborasi dengan berbagai departemen untuk mencapai tujuan bisnis secara efektif.",
+          "Terampil dalam manajemen inventaris dan pengendalian biaya operasional untuk meningkatkan profitabilitas.",
+          "Berfokus pada pemantauan KPI untuk memastikan semua bagian operasi berjalan sesuai target."
+        ]
+      },
+      {
+        "position": "Risk Manager",
+        "phrases": [
+          "Berpengalaman dalam mengidentifikasi, menganalisis, dan mengelola risiko bisnis untuk mengurangi kerugian.",
+          "Ahli dalam membuat kebijakan mitigasi risiko yang efektif sesuai dengan regulasi dan standar industri.",
+          "Mampu berkolaborasi dengan tim untuk mengembangkan strategi pengelolaan risiko proaktif.",
+          "Menguasai teknik risk assessment untuk mengidentifikasi area yang memerlukan perhatian khusus.",
+          "Terampil dalam menyusun laporan risiko untuk manajemen dan pemangku kepentingan."
+        ]
+      },
+      {
+        "position": "Executive Assistant",
+        "phrases": [
+          "Berpengalaman dalam memberikan dukungan administrasi dan operasional bagi manajemen eksekutif.",
+          "Ahli dalam pengelolaan jadwal, mengatur rapat, dan menyiapkan bahan presentasi.",
+          "Mampu berkomunikasi dengan berbagai pihak untuk memastikan kelancaran operasi eksekutif.",
+          "Terampil dalam penulisan laporan dan korespondensi resmi yang akurat dan profesional.",
+          "Berfokus pada menjaga efisiensi operasional manajemen dengan koordinasi yang tepat."
+        ]
+      },
+      {
+        "position": "Marketing Specialist",
+        "phrases": [
+          "Berpengalaman dalam merancang dan mengimplementasikan strategi pemasaran untuk meningkatkan visibilitas brand.",
+          "Ahli dalam pengelolaan kampanye pemasaran digital dan konvensional untuk menjangkau audiens target.",
+          "Mampu menggunakan alat analitik untuk mengukur efektivitas kampanye dan memberikan wawasan strategis.",
+          "Menguasai teknik pemasaran melalui berbagai channel seperti media sosial, e-mail, dan iklan berbayar.",
+          "Berfokus pada inovasi dalam promosi produk untuk menjaga daya saing di pasar."
+        ]
+      },
+      {
+        "position": "Software Engineer",
+        "phrases": [
+          "Ahli dalam pengembangan aplikasi yang scalable dengan menggunakan bahasa pemrograman seperti Java, Python, dan JavaScript.",
+          "Berpengalaman dalam proses pengujian otomatis dan pengembangan berbasis Agile untuk memastikan kualitas perangkat lunak.",
+          "Mampu merancang arsitektur aplikasi yang efisien dan mendukung performa tinggi.",
+          "Terampil bekerja dengan framework seperti Spring Boot, Django, dan React untuk membangun aplikasi yang responsif dan user-friendly.",
+          "Memiliki pemahaman yang mendalam tentang keamanan aplikasi dan enkripsi data untuk melindungi informasi pengguna."
+        ]
+      },
+      {
+        "position": "Project Manager",
+        "phrases": [
+          "Ahli dalam merencanakan, mengatur, dan melaksanakan proyek sesuai timeline dan anggaran yang ditetapkan.",
+          "Terampil menggunakan metodologi seperti Agile dan Waterfall untuk memastikan kelancaran proyek.",
+          "Berpengalaman dalam memimpin tim lintas departemen dan menjaga komunikasi yang efektif dengan pemangku kepentingan.",
+          "Mampu mengidentifikasi dan mengelola risiko proyek untuk menghindari hambatan dan keterlambatan.",
+          "Berfokus pada pencapaian KPI dan hasil yang memenuhi atau melampaui ekspektasi klien."
+        ]
+      },
+      {
+        "position": "UX/UI Designer",
+        "phrases": [
+          "Ahli dalam menciptakan pengalaman pengguna yang intuitif melalui desain antarmuka yang menarik.",
+          "Mahir dalam penggunaan alat desain seperti Adobe XD, Figma, dan Sketch untuk menciptakan prototipe interaktif.",
+          "Berpengalaman dalam uji usability dan riset pengguna untuk memahami kebutuhan pengguna dan meningkatkan desain.",
+          "Mampu berkolaborasi dengan pengembang untuk memastikan desain diimplementasikan sesuai visi.",
+          "Terfokus pada pendekatan desain responsif untuk pengalaman yang konsisten di berbagai perangkat."
+        ]
+      },
+      {
+        "position": "IT Support Specialist",
+        "phrases": [
+          "Berpengalaman dalam memberikan dukungan teknis yang cepat dan efektif bagi pengguna dan tim internal.",
+          "Ahli dalam mendiagnosa dan memperbaiki masalah perangkat keras dan perangkat lunak.",
+          "Terampil dalam pengelolaan jaringan dan keamanan sistem untuk memastikan ketersediaan yang optimal.",
+          "Mampu mendokumentasikan masalah teknis dan solusi untuk panduan bagi pengguna di masa mendatang.",
+          "Memiliki kemampuan komunikasi yang baik untuk menjelaskan solusi teknis dengan bahasa yang mudah dipahami."
+        ]
+      },
+      {
+        "position": "Graphic Designer",
+        "phrases": [
+          "Berpengalaman dalam desain grafis untuk berbagai media, termasuk media sosial, cetak, dan web.",
+          "Ahli menggunakan Adobe Photoshop, Illustrator, dan InDesign untuk menghasilkan desain visual yang menarik.",
+          "Mampu memahami kebutuhan klien dan menerjemahkannya ke dalam elemen desain yang kreatif dan tepat.",
+          "Terampil dalam membuat branding dan identitas visual yang memperkuat citra perusahaan.",
+          "Menguasai prinsip desain seperti warna, tipografi, dan layout untuk menciptakan komposisi yang efektif."
+        ]
+      },
+      {
+        "position": "Medical Sales Representative",
+        "phrases": [
+          "Berpengalaman dalam menjalin hubungan dengan profesional kesehatan dan menawarkan produk medis yang sesuai kebutuhan.",
+          "Ahli dalam teknik penjualan dan presentasi produk untuk meningkatkan pangsa pasar produk kesehatan.",
+          "Mampu mengembangkan strategi pemasaran yang menargetkan fasilitas kesehatan dan apotek.",
+          "Terampil dalam negosiasi dengan distributor dan penyedia layanan kesehatan untuk mencapai kesepakatan yang menguntungkan.",
+          "Fokus pada pencapaian target penjualan dengan memahami keunggulan produk dan kebutuhan pasien."
+        ]
+      },
+      {
+        "position": "Customer Service Representative",
+        "phrases": [
+          "Berpengalaman dalam menangani pertanyaan dan keluhan pelanggan dengan sikap profesional dan empati.",
+          "Ahli dalam memberikan solusi yang memuaskan pelanggan melalui komunikasi yang jelas dan responsif.",
+          "Mampu menangani situasi sulit dengan tenang dan tetap menjaga kepuasan pelanggan.",
+          "Terampil menggunakan perangkat lunak CRM untuk melacak interaksi pelanggan dan memberikan layanan yang konsisten.",
+          "Berfokus pada peningkatan loyalitas pelanggan dengan memberikan pengalaman yang positif."
+        ]
+      },
+      {
+        "position": "Operations Analyst",
+        "phrases": [
+          "Berpengalaman dalam menganalisis data operasional untuk meningkatkan efisiensi dan mengurangi biaya.",
+          "Ahli dalam penggunaan Excel, SQL, dan perangkat lunak analitik lainnya untuk mengidentifikasi tren dan pola.",
+          "Mampu mengembangkan rekomendasi yang dapat diterapkan untuk memperbaiki proses dan sistem.",
+          "Terampil dalam bekerja dengan tim manajemen untuk mengoptimalkan proses bisnis.",
+          "Berfokus pada peningkatan produktivitas melalui analisis data yang akurat dan tindakan yang berbasis data."
+        ]
+      },
+      {
+        "position": "Digital Marketing Specialist",
+        "phrases": [
+          "Berpengalaman dalam strategi pemasaran digital yang meningkatkan engagement dan visibilitas brand.",
+          "Ahli dalam SEO, SEM, dan strategi content marketing untuk mencapai target pasar.",
+          "Terampil menggunakan alat analisis seperti Google Analytics dan SEMrush untuk mengevaluasi performa kampanye.",
+          "Mampu menciptakan strategi media sosial yang konsisten dengan tujuan brand.",
+          "Berfokus pada optimasi pengalaman pengguna dan konversi melalui kampanye yang efektif."
+        ]
+      },
+      {
+        "position": "Backend Developer",
+        "phrases": [
+          "Ahli dalam pengembangan dan pemeliharaan server, database, dan API untuk memastikan performa aplikasi yang optimal.",
+          "Berpengalaman dengan bahasa pemrograman backend seperti Java, Python, dan Node.js.",
+          "Terampil dalam menggunakan database seperti MySQL, PostgreSQL, dan MongoDB untuk menyimpan dan mengelola data.",
+          "Mampu bekerja sama dengan tim frontend untuk menciptakan integrasi yang mulus.",
+          "Berfokus pada keamanan dan keandalan aplikasi dengan menerapkan praktik terbaik pengembangan."
+        ]
+      },
+      {
+        "position": "Environmental Engineer",
+        "phrases": [
+          "Berpengalaman dalam merancang solusi yang ramah lingkungan untuk proyek infrastruktur dan industri.",
+          "Ahli dalam analisis dampak lingkungan dan pemenuhan peraturan lingkungan.",
+          "Mampu mengembangkan strategi untuk mengurangi emisi dan limbah pada proyek konstruksi.",
+          "Terampil dalam penggunaan alat dan metode penelitian untuk mengidentifikasi dan mengurangi polusi.",
+          "Berfokus pada keberlanjutan dan solusi hijau yang berdampak positif bagi lingkungan."
+        ]
+      },
+      {
+        "position": "Quality Control Specialist",
+        "phrases": [
+          "Berpengalaman dalam pengawasan dan pemantauan kualitas produk untuk memenuhi standar perusahaan.",
+          "Ahli dalam teknik inspeksi visual dan alat pengujian untuk memastikan kualitas yang tinggi.",
+          "Terampil dalam analisis data kualitas untuk meningkatkan proses produksi.",
+          "Mampu bekerja dengan tim produksi untuk mengidentifikasi dan memperbaiki masalah kualitas.",
+          "Berfokus pada implementasi standar mutu dan prosedur yang ketat untuk menjaga kualitas produk."
+        ]
+      },
+      {
+        "position": "Public Relations Specialist",
+        "phrases": [
+          "Ahli dalam mengembangkan strategi komunikasi untuk membangun dan mempertahankan citra positif perusahaan.",
+          "Berpengalaman dalam menangani krisis media dan menjaga hubungan yang baik dengan media.",
+          "Mampu menulis siaran pers yang informatif dan menarik untuk mempromosikan perusahaan.",
+          "Terampil dalam mengelola event perusahaan yang melibatkan media dan pemangku kepentingan.",
+          "Fokus pada peningkatan brand awareness melalui hubungan media yang efektif dan strategi komunikasi."
+        ]
+      },
+      {
+        "position": "Compliance Officer",
+        "phrases": [
+          "Ahli dalam memastikan kepatuhan perusahaan dengan peraturan dan standar yang berlaku.",
+          "Berpengalaman dalam menyusun dan melaksanakan kebijakan internal yang sesuai dengan regulasi.",
+          "Terampil dalam melakukan audit internal untuk mengidentifikasi potensi risiko dan masalah kepatuhan.",
+          "Mampu memberikan pelatihan kepatuhan kepada karyawan untuk memastikan pemahaman yang konsisten.",
+          "Berfokus pada pencegahan risiko hukum dan finansial melalui kepatuhan yang ketat."
+        ]
+      },
+      {
+        "position": "Network Engineer",
+        "phrases": [
+          "Berpengalaman dalam desain dan pengelolaan jaringan komputer untuk kinerja yang optimal.",
+          "Ahli dalam keamanan jaringan untuk melindungi data perusahaan dari ancaman siber.",
+          "Mampu memecahkan masalah konektivitas dan konfigurasi perangkat jaringan.",
+          "Terampil dalam mengimplementasikan solusi jaringan yang scalable dan andal.",
+          "Berfokus pada pemantauan jaringan untuk deteksi dini terhadap gangguan dan ancaman."
+        ]
+      },
+      {
+        "position": "Procurement Specialist",
+        "phrases": [
+          "Berpengalaman dalam proses pengadaan barang dan jasa untuk memastikan keberlanjutan operasi.",
+          "Ahli dalam negosiasi harga dengan vendor untuk mendapatkan nilai terbaik.",
+          "Terampil dalam evaluasi pemasok untuk memastikan kualitas dan keandalan.",
+          "Mampu mengelola kontrak pengadaan dengan efisiensi dan transparansi.",
+          "Berfokus pada pengurangan biaya tanpa mengorbankan kualitas."
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,310 @@
+{
+  "educational_fields": {
+    "SMA": [
+      {
+        "field": "IPA",
+        "phrases": [
+          "Berfokus pada penguasaan ilmu sains seperti fisika, kimia, biologi, dan matematika tingkat lanjut, memberikan kemampuan analisis dan pemahaman yang mendalam terhadap konsep-konsep ilmiah.",
+          "Terampil dalam metode penelitian ilmiah, dengan pengalaman praktikum di laboratorium untuk mendalami fenomena alam dan eksperimen yang menunjang pemahaman konsep.",
+          "Mengembangkan kemampuan berpikir kritis dan sistematis melalui pendekatan ilmiah yang dapat diaplikasikan pada berbagai bidang studi dan profesi.",
+          "Memiliki dasar pengetahuan yang kuat dalam matematika terapan, yang mendukung dalam analisis statistik, kalkulus, dan persamaan diferensial yang relevan dengan studi sains lanjut dan teknologi.",
+          "Mampu menganalisis dan memecahkan masalah kompleks dalam ilmu alam, yang merupakan keterampilan dasar untuk studi lanjutan di bidang teknik, kedokteran, atau ilmu lingkungan."
+        ]
+      },
+      {
+        "field": "IPS",
+        "phrases": [
+          "Menguasai konsep-konsep dasar dalam ilmu sosial seperti sosiologi, geografi, ekonomi, dan sejarah, serta memiliki pemahaman mendalam mengenai dinamika masyarakat dan hubungan antarbangsa.",
+          "Berpengalaman dalam menganalisis data sosial melalui metode penelitian kualitatif dan kuantitatif, termasuk survei dan wawancara untuk memahami tren sosial dan ekonomi.",
+          "Memiliki kemampuan berpikir kritis dalam memahami peristiwa historis dan kaitannya dengan kondisi sosial politik saat ini, serta mampu menghubungkan berbagai teori sosial dengan fenomena yang terjadi di masyarakat.",
+          "Terampil dalam ekonomi dasar, termasuk konsep pasar, permintaan dan penawaran, serta kebijakan ekonomi yang mempengaruhi masyarakat secara luas.",
+          "Memiliki wawasan mengenai isu-isu global seperti hak asasi manusia, lingkungan, dan pembangunan berkelanjutan, serta mampu mengevaluasi solusi untuk tantangan sosial saat ini."
+        ]
+      },
+      {
+        "field": "Bahasa",
+        "phrases": [
+          "Mengembangkan kemampuan bahasa yang mendalam melalui studi bahasa asing, literatur, serta linguistik, yang memungkinkan komunikasi efektif dalam berbagai situasi sosial dan profesional.",
+          "Terampil dalam analisis karya sastra, dengan pemahaman mendalam terhadap unsur-unsur sastra seperti tema, plot, dan karakter yang membantu dalam mengembangkan kepekaan budaya dan estetika.",
+          "Menguasai keterampilan menulis dan berbicara dalam bahasa asing, serta memiliki kemampuan dalam terjemahan dan interpretasi yang menunjang komunikasi antarbudaya.",
+          "Memiliki pemahaman mengenai struktur bahasa dan fonologi, morfologi, dan sintaksis yang menjadi dasar untuk studi linguistik lanjutan atau profesi di bidang komunikasi dan pendidikan bahasa.",
+          "Terlibat dalam berbagai kegiatan ekstrakurikuler seperti debat, drama, atau klub literasi yang memperkaya keterampilan interpersonal dan kemampuan berpikir kritis dalam memahami konteks budaya."
+        ]
+      }
+    ],
+    "SMK": [
+      {
+        "field": "Rekayasa Perangkat Lunak (RPL)",
+        "phrases": [
+          "Memiliki kemampuan dalam pengembangan aplikasi berbasis web dan mobile menggunakan bahasa pemrograman seperti Java, PHP, dan Python.",
+          "Terampil dalam pemrograman menggunakan framework seperti Laravel dan React, serta berpengalaman dalam proses debugging dan pengujian aplikasi.",
+          "Menguasai metodologi pengembangan perangkat lunak seperti Agile dan Scrum yang membantu tim mencapai efisiensi dan kualitas.",
+          "Berpengalaman dalam menganalisis kebutuhan pengguna dan merancang solusi perangkat lunak yang sesuai dengan kebutuhan bisnis."
+        ]
+      },
+      {
+        "field": "Teknik Komputer dan Jaringan (TKJ)",
+        "phrases": [
+          "Menguasai teknik jaringan komputer, meliputi instalasi, konfigurasi, dan pemeliharaan jaringan LAN dan WAN.",
+          "Memiliki keterampilan dalam troubleshooting jaringan, mengatasi masalah jaringan dengan cepat dan efisien.",
+          "Berpengalaman dalam penggunaan perangkat jaringan seperti router, switch, serta memahami protokol jaringan seperti TCP/IP.",
+          "Mampu mengelola keamanan jaringan untuk melindungi data dan perangkat dari ancaman seperti malware dan virus."
+        ]
+      },
+      {
+        "field": "Teknik Elektronika Industri",
+        "phrases": [
+          "Menguasai teknik dasar elektronika dan aplikasi komponen elektronika dalam industri.",
+          "Berpengalaman dalam perakitan, perawatan, dan perbaikan sistem elektronika industri.",
+          "Terampil dalam menggunakan alat ukur dan perangkat analisis seperti multimeter dan oscilloscope untuk memastikan kelancaran operasional mesin.",
+          "Mampu mengidentifikasi dan mengatasi masalah elektronik dalam sistem kontrol otomatis industri."
+        ]
+      },
+      {
+        "field": "Teknik Otomotif",
+        "phrases": [
+          "Menguasai dasar-dasar perawatan dan perbaikan kendaraan bermotor, termasuk mesin, sistem rem, dan sistem kelistrikan.",
+          "Terampil dalam melakukan pengecekan dan pemeliharaan berkala pada kendaraan ringan dan berat.",
+          "Berpengalaman dalam diagnosa dan troubleshooting masalah mekanik pada kendaraan menggunakan alat diagnostik modern.",
+          "Mampu bekerja sesuai dengan standar keselamatan dan prosedur perbaikan yang berlaku di industri otomotif."
+        ]
+      },
+      {
+        "field": "Teknik Mesin",
+        "phrases": [
+          "Menguasai prinsip dasar teknik mesin, termasuk pengetahuan tentang material, termodinamika, dan mekanika fluida.",
+          "Berpengalaman dalam perawatan dan perbaikan mesin-mesin industri untuk memastikan kelancaran operasional produksi.",
+          "Terampil dalam penggunaan peralatan mesin, seperti mesin bubut, mesin frais, dan peralatan CNC.",
+          "Mampu membaca dan menerapkan gambar teknik untuk perakitan dan perawatan komponen mekanik."
+        ]
+      },
+      {
+        "field": "Teknik Pemesinan",
+        "phrases": [
+          "Menguasai keterampilan pengoperasian mesin-mesin produksi seperti mesin bubut, mesin frais, dan grinding.",
+          "Terampil dalam proses pemotongan logam dan pengaturan parameter mesin untuk menghasilkan komponen yang presisi.",
+          "Memahami pentingnya perawatan preventif pada mesin untuk mengurangi downtime dan meningkatkan umur mesin.",
+          "Berpengalaman dalam membaca dan menerapkan gambar teknik untuk proses pemesinan."
+        ]
+      },
+      {
+        "field": "Teknik Kimia",
+        "phrases": [
+          "Menguasai prinsip dasar reaksi kimia dan aplikasi industri seperti pembuatan produk kimia dan pengolahan limbah.",
+          "Berpengalaman dalam penggunaan peralatan laboratorium dan teknik analisis kimia untuk memastikan kualitas produk.",
+          "Memahami pentingnya keselamatan kerja di laboratorium dan industri kimia, serta mampu menerapkan prosedur keselamatan dengan baik.",
+          "Terampil dalam pengendalian kualitas dan proses produksi kimia secara efisien dan aman."
+        ]
+      },
+      {
+        "field": "Teknik Pendingin dan Tata Udara",
+        "phrases": [
+          "Menguasai prinsip kerja sistem pendingin dan tata udara, serta mampu melakukan instalasi dan perawatan AC dan lemari pendingin.",
+          "Terampil dalam troubleshooting masalah pada sistem pendingin, seperti kebocoran freon atau masalah kelistrikan.",
+          "Berpengalaman dalam menggunakan alat diagnostik untuk memastikan sistem bekerja optimal dan aman bagi pengguna.",
+          "Memahami pentingnya efisiensi energi dan teknik pemeliharaan yang ramah lingkungan pada sistem pendingin."
+        ]
+      },
+      {
+        "field": "Teknik Alat Berat",
+        "phrases": [
+          "Menguasai dasar-dasar perawatan dan perbaikan alat berat seperti bulldozer, excavator, dan crane.",
+          "Terampil dalam mendiagnosis dan memperbaiki masalah mekanis dan hidraulik pada alat berat untuk memastikan keamanan operasional.",
+          "Berpengalaman dalam mengoperasikan dan merawat mesin-mesin alat berat sesuai standar keamanan.",
+          "Memahami pentingnya keselamatan dan prosedur kerja yang benar dalam operasional dan pemeliharaan alat berat."
+        ]
+      },
+      {
+        "field": "Multimedia",
+        "phrases": [
+          "Terampil dalam desain grafis, produksi video, dan animasi dengan software seperti Adobe Photoshop, Illustrator, dan After Effects.",
+          "Menguasai dasar-dasar fotografi dan videografi, termasuk pengaturan pencahayaan dan editing pasca-produksi.",
+          "Berpengalaman dalam produksi konten digital dan pengembangan desain visual untuk berbagai platform.",
+          "Memahami prinsip-prinsip desain komunikasi visual untuk menciptakan pesan yang efektif dan menarik."
+        ]
+      },
+      {
+        "field": "Desain Komunikasi Visual",
+        "phrases": [
+          "Menguasai prinsip-prinsip desain visual, seperti tipografi, warna, dan komposisi untuk menciptakan karya yang estetis.",
+          "Berpengalaman dalam menggunakan software desain seperti Adobe Photoshop, Illustrator, dan InDesign untuk proyek-proyek desain.",
+          "Terampil dalam merancang identitas visual yang mencerminkan nilai dan visi perusahaan secara efektif.",
+          "Memiliki pemahaman tentang tren desain dan mampu beradaptasi dengan perubahan kebutuhan pasar."
+        ]
+      },
+      {
+        "field": "Bisnis Daring dan Pemasaran",
+        "phrases": [
+          "Menguasai pemasaran digital, termasuk SEO, media sosial, dan email marketing untuk meningkatkan penjualan.",
+          "Terampil dalam membuat konten yang menarik untuk platform e-commerce dan media sosial.",
+          "Memahami strategi branding dan pemasaran untuk menarik dan mempertahankan pelanggan.",
+          "Berpengalaman dalam mengelola toko online, memonitor analytics, dan menyusun laporan penjualan."
+        ]
+      },
+      {
+        "field": "Akuntansi dan Keuangan",
+        "phrases": [
+          "Menguasai dasar-dasar akuntansi, termasuk pembuatan laporan keuangan, buku besar, dan penghitungan pajak.",
+          "Terampil dalam penggunaan software akuntansi seperti MYOB, Accurate, dan Excel untuk pengelolaan data keuangan.",
+          "Memahami prinsip-prinsip perpajakan dan pengelolaan pajak perusahaan.",
+          "Berpengalaman dalam analisis keuangan untuk mendukung keputusan bisnis yang lebih baik."
+        ]
+      },
+      {
+        "field": "Perhotelan",
+        "phrases": [
+          "Menguasai keterampilan dasar perhotelan, termasuk manajemen reservasi, check-in, dan pelayanan tamu.",
+          "Berpengalaman dalam pelayanan dan standar kebersihan hotel untuk memberikan pengalaman terbaik bagi tamu.",
+          "Mampu bekerja dalam tim untuk menangani tugas-tugas operasional hotel dan menjaga kepuasan tamu.",
+          "Terampil dalam komunikasi dan keterampilan interpersonal untuk mengelola keluhan dan permintaan tamu."
+        ]
+      },
+      {
+        "field": "Tata Boga",
+        "phrases": [
+          "Menguasai dasar-dasar memasak dan penyajian makanan sesuai standar kuliner.",
+          "Terampil dalam penggunaan alat dapur dan teknik memasak untuk menciptakan hidangan yang berkualitas.",
+          "Memahami pentingnya sanitasi dan keamanan pangan dalam pengolahan makanan.",
+          "Berpengalaman dalam manajemen dapur dan perencanaan menu yang seimbang dan bervariasi."
+        ]
+      },
+      {
+        "field": "Tata Busana",
+        "phrases": [
+          "Menguasai dasar-dasar desain busana dan teknik menjahit untuk menghasilkan pakaian berkualitas.",
+          "Terampil dalam penggunaan mesin jahit dan alat potong kain untuk menciptakan produk fashion.",
+          "Memahami prinsip desain seperti warna, pola, dan siluet untuk menciptakan busana yang menarik.",
+          "Berpengalaman dalam analisis tren mode untuk mendukung desain yang mengikuti kebutuhan pasar."
+        ]
+      },
+      {
+        "field": "Teknik Ketenagalistrikan",
+        "phrases": [
+          "Menguasai dasar-dasar kelistrikan dan mampu melakukan instalasi dan perawatan sistem listrik.",
+          "Berpengalaman dalam merancang dan memasang jaringan listrik serta memastikan keselamatan operasional.",
+          "Mampu mendiagnosis dan memperbaiki kerusakan pada instalasi listrik secara aman.",
+          "Memahami prosedur keselamatan kerja dalam pekerjaan listrik untuk mencegah kecelakaan."
+        ]
+      },
+      {
+        "field": "Teknik Jaringan Akses Telekomunikasi",
+        "phrases": [
+          "Menguasai konsep dasar jaringan akses dan pengelolaan infrastruktur telekomunikasi.",
+          "Berpengalaman dalam instalasi dan konfigurasi perangkat telekomunikasi seperti antena dan tower BTS.",
+          "Mampu menganalisis dan menyelesaikan masalah jaringan untuk menjaga kelancaran konektivitas.",
+          "Memahami prosedur keselamatan dan efisiensi dalam pengelolaan jaringan akses telekomunikasi."
+        ]
+      },
+      {
+        "field": "Animasi",
+        "phrases": [
+          "Terampil dalam membuat animasi 2D dan 3D menggunakan software seperti Blender, Adobe Animate, dan Maya.",
+          "Menguasai prinsip-prinsip animasi seperti timing, squash and stretch, dan animasi karakter.",
+          "Berpengalaman dalam storyboard dan perencanaan animasi untuk menghasilkan cerita yang menarik.",
+          "Mampu mengelola proyek animasi dari tahap awal hingga post-produksi dengan keterampilan manajemen waktu yang baik."
+        ]
+      },
+      {
+        "field": "Farmasi",
+        "phrases": [
+          "Menguasai pengetahuan dasar farmasi, termasuk farmakologi, kimia farmasi, dan teknik pembuatan obat.",
+          "Berpengalaman dalam pengelolaan obat, baik dalam produksi, distribusi, maupun pelayanan di apotek.",
+          "Mampu membaca dan memahami resep dokter, serta memberikan informasi yang jelas kepada pasien.",
+          "Memahami pentingnya standar keamanan dan kebersihan dalam pengelolaan produk farmasi."
+        ]
+      }
+    ],
+    "Universitas": [
+      {
+        "field": "Teknik Informatika",
+        "phrases": [
+          "Menguasai pemrograman dalam berbagai bahasa seperti Java, Python, dan C++, serta memiliki pengalaman dalam pengembangan aplikasi berbasis web dan mobile yang mampu bekerja secara real-time dengan sistem backend yang terintegrasi dengan basis data, seperti MySQL dan MongoDB.",
+          "Terampil dalam merancang dan membangun sistem informasi yang memenuhi kebutuhan spesifik pengguna, termasuk kemampuan dalam analisis kebutuhan sistem, pengembangan, pengujian, dan deployment aplikasi.",
+          "Memiliki pemahaman mendalam mengenai algoritma dan struktur data untuk menciptakan kode yang efisien dan dapat di-maintain dengan baik. Berpengalaman dalam menggunakan tools seperti Git untuk kolaborasi dalam tim.",
+          "Mampu menerapkan kecerdasan buatan dan machine learning untuk membuat sistem cerdas yang dapat melakukan prediksi atau analisis otomatis, dengan pemahaman dalam penggunaan libraries seperti TensorFlow dan Keras."
+        ]
+      },
+      {
+        "field": "Sistem Informasi",
+        "phrases": [
+          "Memiliki pemahaman mendalam tentang peran sistem informasi dalam mendukung proses bisnis dan pengambilan keputusan, dengan keahlian dalam analisis dan desain sistem yang efektif serta efisien.",
+          "Terampil dalam merancang, mengimplementasikan, dan mengelola database serta sistem ERP untuk mendukung operasional perusahaan, dengan pengalaman dalam tools seperti SAP dan Oracle.",
+          "Memahami pentingnya keamanan data dan informasi dalam sistem informasi dan mampu menerapkan prinsip keamanan dan enkripsi untuk melindungi data sensitif perusahaan dari ancaman siber.",
+          "Berpengalaman dalam analisis big data dan visualisasi data menggunakan alat seperti Tableau dan Power BI, untuk membantu manajemen dalam membuat keputusan berdasarkan data."
+        ]
+      },
+      {
+        "field": "Teknik Elektro",
+        "phrases": [
+          "Menguasai dasar-dasar teori listrik dan elektronika, serta memiliki pengalaman dalam desain dan implementasi sistem kontrol untuk berbagai aplikasi industri.",
+          "Berpengalaman dalam instalasi dan pemeliharaan sistem kelistrikan, serta memahami standar keselamatan yang relevan untuk mencegah risiko kebakaran dan kecelakaan listrik.",
+          "Terampil dalam pemrograman mikrokontroler seperti Arduino dan Raspberry Pi untuk aplikasi otomasi dan IoT, termasuk pemahaman dalam sensor dan aktuator.",
+          "Mampu merancang dan mengoptimalkan sistem tenaga listrik, dengan keahlian dalam analisis kualitas daya dan efisiensi energi untuk industri serta aplikasi rumah tangga."
+        ]
+      },
+      {
+        "field": "Teknik Mesin",
+        "phrases": [
+          "Memiliki pemahaman mendalam tentang prinsip-prinsip dasar teknik mesin seperti termodinamika, mekanika fluida, dan material teknik untuk mendesain dan mengembangkan mesin yang efisien.",
+          "Terampil dalam penggunaan software CAD/CAM, seperti SolidWorks dan AutoCAD, untuk merancang komponen mesin serta memodelkan simulasi kinerja produk sebelum diproduksi.",
+          "Berpengalaman dalam proses pemesinan dan manufaktur, serta memahami teknik seperti pengelasan, pengecoran, dan permesinan presisi untuk menghasilkan produk berkualitas tinggi.",
+          "Memahami proses perawatan dan pemeliharaan mesin industri serta memiliki kemampuan troubleshooting untuk menjaga agar mesin tetap berfungsi optimal dan mengurangi downtime di pabrik."
+        ]
+      },
+      {
+        "field": "Teknik Sipil",
+        "phrases": [
+          "Menguasai prinsip-prinsip perancangan dan konstruksi bangunan, serta memiliki pengalaman dalam pengelolaan proyek dari perencanaan hingga pengawasan di lapangan.",
+          "Terampil dalam penggunaan software teknik sipil seperti AutoCAD, SAP2000, dan ETABS untuk menganalisis dan mendesain struktur yang aman dan efisien.",
+          "Memahami teknik pembangunan berkelanjutan yang ramah lingkungan, serta memiliki kemampuan untuk merancang bangunan dengan material yang efisien dan metode yang minim dampak lingkungan.",
+          "Mampu melakukan estimasi biaya proyek serta perencanaan anggaran untuk memastikan efisiensi dalam penggunaan sumber daya selama tahap pembangunan."
+        ]
+      },
+      {
+        "field": "Teknik Kimia",
+        "phrases": [
+          "Mampu merancang dan mengoptimalkan proses produksi kimia yang efisien dan aman untuk produk-produk yang dibutuhkan di industri farmasi, makanan, dan minuman, serta produk konsumen.",
+          "Berpengalaman dalam analisis dan kontrol kualitas bahan kimia untuk memastikan bahwa proses produksi memenuhi standar industri dan peraturan lingkungan.",
+          "Terampil dalam pengoperasian dan pemeliharaan peralatan laboratorium dan industri kimia, serta memiliki pemahaman tentang standar keselamatan kerja di lingkungan kimia.",
+          "Mampu melakukan penelitian dan pengembangan dalam bidang kimia terapan untuk menciptakan produk baru atau meningkatkan efisiensi produk yang sudah ada."
+        ]
+      },
+      {
+        "field": "Teknik Industri",
+        "phrases": [
+          "Memiliki pemahaman menyeluruh tentang teknik dan metode yang digunakan untuk meningkatkan efisiensi dan produktivitas di industri manufaktur dan jasa.",
+          "Terampil dalam analisis sistem produksi dan optimasi proses, serta berpengalaman dalam penggunaan software seperti MATLAB dan Minitab untuk pemodelan proses.",
+          "Berpengalaman dalam pengelolaan rantai pasokan untuk memastikan distribusi barang yang efisien dan tepat waktu, serta mampu melakukan perencanaan kapasitas produksi.",
+          "Memahami pentingnya peran teknik industri dalam meningkatkan keselamatan kerja dan kesejahteraan karyawan di lingkungan industri."
+        ]
+      },
+      {
+        "field": "Arsitektur",
+        "phrases": [
+          "Menguasai prinsip-prinsip desain arsitektur, serta memiliki pengalaman dalam merancang bangunan yang efisien dan estetis dengan mempertimbangkan aspek lingkungan.",
+          "Berpengalaman dalam penggunaan software desain seperti AutoCAD, SketchUp, dan Revit untuk membuat model 3D yang dapat membantu klien memvisualisasikan proyek mereka.",
+          "Terampil dalam desain arsitektur berkelanjutan yang ramah lingkungan, serta memahami prinsip-prinsip green building dan teknik untuk mengurangi dampak lingkungan bangunan.",
+          "Mampu melakukan analisis site untuk memastikan bahwa bangunan dirancang dengan mempertimbangkan kondisi lingkungan dan kebutuhan pengguna."
+        ]
+      },
+      {
+        "field": "Ilmu Komunikasi",
+        "phrases": [
+          "Menguasai teori dan konsep komunikasi massa, serta memiliki pengalaman dalam mengembangkan strategi komunikasi untuk meningkatkan kesadaran merek atau perusahaan.",
+          "Terampil dalam komunikasi interpersonal dan public speaking, dengan kemampuan untuk menyampaikan pesan yang efektif dan persuasif kepada audiens yang beragam.",
+          "Berpengalaman dalam riset komunikasi, analisis media, dan memahami dinamika media sosial untuk merancang kampanye komunikasi yang tepat sasaran.",
+          "Memiliki kemampuan menulis yang kuat untuk membuat konten media yang menarik, termasuk pers release, artikel, dan konten media sosial."
+        ]
+      },
+      {
+        "field": "Desain Komunikasi Visual",
+        "phrases": [
+          "Menguasai prinsip-prinsip desain grafis, termasuk tipografi, warna, dan komposisi, serta memiliki kemampuan untuk menghasilkan visual yang menarik dan komunikatif.",
+          "Terampil dalam penggunaan software desain seperti Adobe Photoshop, Illustrator, dan InDesign untuk membuat desain yang sesuai dengan kebutuhan klien.",
+          "Berpengalaman dalam pembuatan identitas visual untuk perusahaan, termasuk logo, branding, dan elemen visual yang mendukung citra perusahaan.",
+          "Memahami pentingnya user experience (UX) dalam desain, serta mampu menciptakan desain yang intuitif dan mudah dipahami oleh pengguna."
+        ]
+      }
+    ]
+  }
+}
